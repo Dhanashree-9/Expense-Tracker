@@ -1,2 +1,3 @@
 # Expense-Tracker
 Daily Expense Tracker Using JavaScript and PHP
+The Daily Expense Tracker is a web-based application built using JavaScript, PHP, HTML, and CSS to help users effectively manage and track their daily expenses. The backend logic is powered by PHP, which interacts with a MySQL database through XAMPP to store and retrieve expense records securely. The app allows users to input income and expenses, categorize transactions, and view a detailed summary of spending habits. Additionally, the frontend includes real-time expense calculations and visual representations using JavaScript. With persistent data storage and an intuitive interface, this project simplifies financial management for users who want to keep track of their daily budget efficiently.
